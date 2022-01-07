@@ -1,0 +1,23 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "The minnet Moken bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lndavis6/moken-bot.git"
+  },
+  "author": "Lancendavis.eth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lndavis6/moken-bot/issues"
+  },
+  "homepage": "https://github.com/lndavis6/moken-bot#readme",
+  "dependencies": {
+    "discord.js": "^13.5.0",
+    "dotenv": "^10.0.0"
+  }
+}
